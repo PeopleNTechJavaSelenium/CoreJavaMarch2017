@@ -10,7 +10,9 @@ public class ElectricCar extends Car {
 	}
 	public void getCarInfo(){
 		System.out.println("This is Toyota Car");
+		System.out.println("Hey this is Ishrat");
 	}
+	
 	
 	public void engine(){
 		System.out.println("It will also run as Hybrid");
